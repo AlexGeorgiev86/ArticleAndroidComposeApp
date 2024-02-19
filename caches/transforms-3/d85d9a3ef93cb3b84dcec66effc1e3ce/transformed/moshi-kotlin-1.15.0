@@ -1,0 +1,6 @@
+com.squareup.moshi.KotlinJsonAdapterFactory
+com.squareup.moshi.kotlin.reflect.KotlinJsonAdapter
+com.squareup.moshi.kotlin.reflect.KotlinJsonAdapter$Binding
+com.squareup.moshi.kotlin.reflect.KotlinJsonAdapter$IndexedParameterMap
+com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
+com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterKt

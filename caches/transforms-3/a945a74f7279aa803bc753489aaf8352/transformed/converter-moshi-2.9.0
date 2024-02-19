@@ -1,0 +1,4 @@
+retrofit2.converter.moshi.MoshiConverterFactory
+retrofit2.converter.moshi.MoshiRequestBodyConverter
+retrofit2.converter.moshi.MoshiResponseBodyConverter
+retrofit2.converter.moshi.package-info

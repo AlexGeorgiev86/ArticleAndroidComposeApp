@@ -42,7 +42,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.1"
+        kotlinCompilerExtensionVersion = "1.5.9"
     }
     packaging {
         resources {
@@ -74,6 +74,8 @@ dependencies {
     implementation(Dependencies.moshi)
     implementation(Dependencies.okhttp)
     implementation(Dependencies.loggingInterceptor)
+    implementation(Dependencies.coroutinesCore)
+    implementation(Dependencies.coroutinesAndroid)
 
     implementation(project(Modules.utilities))
 
